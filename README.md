@@ -2,7 +2,9 @@
 A Discord X Chess.com promo generator for the latest chess.com and Discord Nitro promotion. Generate unlimited Nitro promo links for Discord using the latest Nitro promo with Discord and chess.com.
 # Purchase Private Version:
 https://discord.gg/h5ggfXKQUB 
-# [![Watch the video](https://img.youtube.com/vi/Anu0ClHddcY/maxresdefault.jpg)](https://youtu.be/Anu0ClHddcY)
+
+https://github.com/user-attachments/assets/bec1ee6a-a4c3-4231-b63d-9ef69088bbbe
+
 # Features
 -Unlimited Nitro Promo Links: Generate as many Discord Nitro promo links as you need.
 
